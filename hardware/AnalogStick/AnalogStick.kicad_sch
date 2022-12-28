@@ -139,6 +139,8 @@
   )
 
 
+  (no_connect (at 82.55 68.58) (uuid 8e1983d7-818b-423d-95d2-7f219e4f6ba3))
+
   (wire (pts (xy 77.47 71.12) (xy 82.55 71.12))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 10fa1a8c-62cb-4b8f-b916-b18d737ff71b)
@@ -166,10 +168,6 @@
   (wire (pts (xy 77.47 58.42) (xy 82.55 58.42))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 43f341b3-06e9-4e7a-a26e-5365b89d76bf)
-  )
-  (wire (pts (xy 77.47 68.58) (xy 82.55 68.58))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 750e60a2-e808-4253-8275-b79930fb2714)
   )
   (wire (pts (xy 77.47 55.88) (xy 82.55 55.88))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -247,10 +245,6 @@
   (label "Y_2" (at 77.47 63.5 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d7df1f01-3f56-437b-a452-e88ad90a9805)
-  )
-  (label "GND" (at 77.47 68.58 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid f879c0e8-5893-4eb4-8e59-2292a632100f)
   )
 
   (symbol (lib_id "consolizer:PSP-analog") (at 87.63 41.91 0) (unit 1)
