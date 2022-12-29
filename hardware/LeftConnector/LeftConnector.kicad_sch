@@ -484,7 +484,7 @@
     (property "Value" "trill-flex-conector_10" (id 1) (at 106.68 82.5499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "consolizer:flex_long_10" (id 2) (at 102.87 66.04 0)
+    (property "Footprint" "consolizer:flex_short_10" (id 2) (at 102.87 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 102.87 66.04 0)
@@ -508,7 +508,7 @@
 
   (symbol_instances
     (path "/ea6fde00-59dc-4a79-a647-7e38199fae0e"
-      (reference "C1") (unit 1) (value "trill-flex-conector_10") (footprint "consolizer:flex_long_10")
+      (reference "C1") (unit 1) (value "trill-flex-conector_10") (footprint "consolizer:flex_short_10")
     )
     (path "/a07b6b2b-7179-4297-b163-5e47ffbe76d3"
       (reference "J1") (unit 1) (value "Conn_01x10") (footprint "Connector_FFC-FPC:TE_1-1734839-0_1x10-1MP_P0.5mm_Horizontal")
