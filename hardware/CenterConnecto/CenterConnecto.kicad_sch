@@ -430,7 +430,7 @@
     (property "Value" "trill-flex-conector_10" (id 1) (at 81.28 95.2499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "consolizer:flex_long_10" (id 2) (at 77.47 78.74 0)
+    (property "Footprint" "consolizer:flex_short_10" (id 2) (at 77.47 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 77.47 78.74 0)
@@ -508,7 +508,7 @@
 
   (symbol_instances
     (path "/0fe459be-6237-4e69-9849-b12b113e8605"
-      (reference "C1") (unit 1) (value "trill-flex-conector_10") (footprint "consolizer:flex_long_10")
+      (reference "C1") (unit 1) (value "trill-flex-conector_10") (footprint "consolizer:flex_short_10")
     )
     (path "/2e586240-f606-4214-a0bb-6944933b64f5"
       (reference "J1") (unit 1) (value "Conn_01x10") (footprint "Connector_FFC-FPC:Hirose_FH12-10S-0.5SH_1x10-1MP_P0.50mm_Horizontal")
