@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "consolizer")(type "KiCad")(uri "${KIPRJMOD}/../lib/consolizer.kicad_sym")(options "")(descr ""))
+  (lib (name "JLCPCB_schematic")(type "KiCad")(uri "${KIPRJMOD}/../lib/JLCPCB/Schematic/JLCPCB_schematic.kicad_sym")(options "")(descr ""))
+)

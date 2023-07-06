@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\stephen.cooper\Documents\GitHub\PSP-Consolizer-Internal\hardware\lbuttons\lbuttons.kicad_sch</source>
+    <date>27/06/2023 09:31:25</date>
+    <tool>Eeschema 7.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lbuttons.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>trill-flex-conector_10</value>
+      <footprint>consolizer:flex_short_10</footprint>
+      <libsource lib="consolizer" part="trill-flex-conector_10" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lbuttons.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>238297e8-0d37-4366-9865-431e83c4fe49</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>trill-flex-conector_10</value>
+      <footprint>consolizer:flex_short_10</footprint>
+      <libsource lib="consolizer" part="trill-flex-conector_10" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lbuttons.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6d88d7d-92d8-4fc8-b103-7599e55f18c0</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>SKRBAKE010</value>
+      <footprint>JLCPCB_footprint:KEY-SMD_4P-L4.0-W4.8-P3.90-LS4.8</footprint>
+      <datasheet>https://item.szlcsc.com/151114.html</datasheet>
+      <fields>
+        <field name="LCSC">C139790</field>
+      </fields>
+      <libsource lib="JLCPCB_schematic" part="SKRBAKE010" description=""/>
+      <property name="LCSC" value="C139790"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lbuttons.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed65c7be-2ea9-48cb-a29b-38092ee621ce</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>SKRBAKE010</value>
+      <footprint>JLCPCB_footprint:KEY-SMD_4P-L4.0-W4.8-P3.90-LS4.8</footprint>
+      <datasheet>https://item.szlcsc.com/151114.html</datasheet>
+      <fields>
+        <field name="LCSC">C139790</field>
+      </fields>
+      <libsource lib="JLCPCB_schematic" part="SKRBAKE010" description=""/>
+      <property name="LCSC" value="C139790"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lbuttons.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ba549b0-3e68-4df5-8a4f-bdfc98f9442b</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>SKRBAKE010</value>
+      <footprint>JLCPCB_footprint:KEY-SMD_4P-L4.0-W4.8-P3.90-LS4.8</footprint>
+      <datasheet>https://item.szlcsc.com/151114.html</datasheet>
+      <fields>
+        <field name="LCSC">C139790</field>
+      </fields>
+      <libsource lib="JLCPCB_schematic" part="SKRBAKE010" description=""/>
+      <property name="LCSC" value="C139790"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lbuttons.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d1ba927-04d3-47b4-ab4d-96a38cc38cf5</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>SKRBAKE010</value>
+      <footprint>JLCPCB_footprint:KEY-SMD_4P-L4.0-W4.8-P3.90-LS4.8</footprint>
+      <datasheet>https://item.szlcsc.com/151114.html</datasheet>
+      <fields>
+        <field name="LCSC">C139790</field>
+      </fields>
+      <libsource lib="JLCPCB_schematic" part="SKRBAKE010" description=""/>
+      <property name="LCSC" value="C139790"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lbuttons.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1184c7dd-7cdb-402a-ad26-92ca76b0b969</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>SKRBAKE010</value>
+      <footprint>JLCPCB_footprint:KEY-SMD_4P-L4.0-W4.8-P3.90-LS4.8</footprint>
+      <datasheet>https://item.szlcsc.com/151114.html</datasheet>
+      <fields>
+        <field name="LCSC">C139790</field>
+      </fields>
+      <libsource lib="JLCPCB_schematic" part="SKRBAKE010" description=""/>
+      <property name="LCSC" value="C139790"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lbuttons.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa9deb00-be63-407a-a946-08a3cd800833</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="JLCPCB_schematic" part="SKRBAKE010">
+      <docs>https://item.szlcsc.com/151114.html</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SKRBAKE010</field>
+        <field name="Footprint">JLCPCB_footprint:KEY-SMD_4P-L4.0-W4.8-P3.90-LS4.8</field>
+        <field name="Datasheet">https://item.szlcsc.com/151114.html</field>
+        <field name="LCSC">C139790</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+        <pin num="4" name="4" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="consolizer" part="trill-flex-conector_10">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">trill-flex-conector_10</field>
+        <field name="Footprint">trill-flex:trill_flex_long_10</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+        <pin num="3" name="3" type="input"/>
+        <pin num="4" name="4" type="input"/>
+        <pin num="5" name="5" type="input"/>
+        <pin num="6" name="6" type="input"/>
+        <pin num="7" name="7" type="input"/>
+        <pin num="8" name="8" type="input"/>
+        <pin num="9" name="9" type="input"/>
+        <pin num="10" name="10" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="JLCPCB_schematic">
+      <uri>C:\Users\stephen.cooper\Documents\GitHub\PSP-Consolizer-Internal\hardware\lbuttons/../lib/JLCPCB/Schematic/JLCPCB_schematic.kicad_sym</uri>
+    </library>
+    <library logical="consolizer">
+      <uri>C:\Users\stephen.cooper\Documents\GitHub\PSP-Consolizer-Internal\hardware\lbuttons/../lib/consolizer.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/down">
+      <node ref="C1" pin="5" pinfunction="5" pintype="input"/>
+      <node ref="C2" pin="5" pinfunction="5" pintype="input"/>
+      <node ref="U5" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U5" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="2" name="/l1">
+      <node ref="C1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="C2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U1" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U1" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="3" name="/left">
+      <node ref="C1" pin="4" pinfunction="4" pintype="input"/>
+      <node ref="C2" pin="4" pinfunction="4" pintype="input"/>
+      <node ref="U4" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U4" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="4" name="/right">
+      <node ref="C1" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="C2" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="U2" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U2" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="5" name="/up">
+      <node ref="C1" pin="3" pinfunction="3" pintype="input"/>
+      <node ref="C2" pin="3" pinfunction="3" pintype="input"/>
+      <node ref="U3" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U3" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="C1" pin="10" pinfunction="10" pintype="input"/>
+      <node ref="C1" pin="6" pinfunction="6" pintype="input"/>
+      <node ref="C1" pin="7" pinfunction="7" pintype="input"/>
+      <node ref="C1" pin="8" pinfunction="8" pintype="input"/>
+      <node ref="C1" pin="9" pinfunction="9" pintype="input"/>
+      <node ref="C2" pin="10" pinfunction="10" pintype="input"/>
+      <node ref="C2" pin="6" pinfunction="6" pintype="input"/>
+      <node ref="C2" pin="7" pinfunction="7" pintype="input"/>
+      <node ref="C2" pin="8" pinfunction="8" pintype="input"/>
+      <node ref="C2" pin="9" pinfunction="9" pintype="input"/>
+      <node ref="U1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U1" pin="4" pinfunction="4" pintype="unspecified"/>
+      <node ref="U2" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U2" pin="4" pinfunction="4" pintype="unspecified"/>
+      <node ref="U3" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U3" pin="4" pinfunction="4" pintype="unspecified"/>
+      <node ref="U4" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U4" pin="4" pinfunction="4" pintype="unspecified"/>
+      <node ref="U5" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U5" pin="4" pinfunction="4" pintype="unspecified"/>
+    </net>
+  </nets>
+</export>
