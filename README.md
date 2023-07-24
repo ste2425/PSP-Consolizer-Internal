@@ -1,3 +1,5 @@
+![PSP Consolizer](logo.png)
+
 # PSP-Consolizer-Internal
 An internal version of the PSP Consolizer
 

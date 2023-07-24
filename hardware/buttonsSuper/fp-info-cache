@@ -1,4 +1,4 @@
-21748788888422470
+21750479096064157
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59559,6 +59559,13 @@ JLCPCB_footprint
 KEY-SMD_4P-L4.0-W4.8-P3.90-LS4.8
 KEY-SMD_4P-L4.0-W4.8-P3.90-LS4.8 footprint
 KEY-SMD_4P-L4.0-W4.8-P3.90-LS4.8 footprint
+0
+4
+4
+JLCPCB_footprint
+KEY-SMD_4P-L5.2-W5.2-P3.70-LS6.4
+KEY-SMD_4P-L5.2-W5.2-P3.70-LS6.4 footprint
+KEY-SMD_4P-L5.2-W5.2-P3.70-LS6.4 footprint
 0
 4
 4
