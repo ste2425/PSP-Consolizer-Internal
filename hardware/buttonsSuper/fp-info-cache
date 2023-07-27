@@ -1,4 +1,4 @@
-21750479096064157
+21753859787192676
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59569,6 +59569,13 @@ KEY-SMD_4P-L5.2-W5.2-P3.70-LS6.4 footprint
 0
 4
 4
+JLCPCB_footprint
+KEY-SMD_4P-L5.2-W5.2-P3.70-LS6.4_1
+KEY-SMD_4P-L5.2-W5.2-P3.70-LS6.4 footprint
+KEY-SMD_4P-L5.2-W5.2-P3.70-LS6.4 footprint
+0
+4
+4
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
@@ -90369,3 +90376,10 @@ flex_short_10
 0
 10
 10
+consolizer
+logo_small
+
+
+0
+0
+0
