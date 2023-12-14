@@ -1,0 +1,18 @@
+"Source:","C:\Users\stephen.cooper\Documents\GitHub\PSP-Consolizer-Internal\hardware\VitaAnalogAdapter\VitaAnalogAdapter.kicad_sch"
+"Date:","24/11/2023 15:22:39"
+"Tool:","Eeschema 7.0.5"
+"Generator:","C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","2"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","LCSC","Usage"
+"","","P1","5034801000","JLCPCB_schematic:5034801000","JLCPCB_footprint:FPC-SMD_5034801000","https://item.szlcsc.com/138637.html","C127355","Vita_Motherboard"
+"","","P2","5034801000","JLCPCB_schematic:5034801000","JLCPCB_footprint:FPC-SMD_5034801000","https://item.szlcsc.com/138637.html","C127355","Analog_Stick"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","LCSC","Usage"
+"1","2","P1, P2","5034801000","JLCPCB_schematic:5034801000","JLCPCB_footprint:FPC-SMD_5034801000","https://item.szlcsc.com/138637.html","C127355","Vita_Motherboard"

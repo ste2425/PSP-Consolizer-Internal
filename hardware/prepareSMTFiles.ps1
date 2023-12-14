@@ -1,3 +1,3 @@
-jlc-kicad-tools ./lbuttons -o "./lbuttons/SMT Assembly Files"
+jlc-kicad-tools ./VitaAnalogAdapter -o "./VitaAnalogAdapter/SMT Assembly Files"
 
 pause

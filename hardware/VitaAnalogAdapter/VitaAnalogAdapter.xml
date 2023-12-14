@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\stephen.cooper\Documents\GitHub\PSP-Consolizer-Internal\hardware\VitaAnalogAdapter\VitaAnalogAdapter.kicad_sch</source>
+    <date>24/11/2023 15:22:39</date>
+    <tool>Eeschema 7.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>VitaAnalogAdapter.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="P1">
+      <value>5034801000</value>
+      <footprint>JLCPCB_footprint:FPC-SMD_5034801000</footprint>
+      <datasheet>https://item.szlcsc.com/138637.html</datasheet>
+      <fields>
+        <field name="LCSC">C127355</field>
+        <field name="Usage">Vita_Motherboard</field>
+      </fields>
+      <libsource lib="JLCPCB_schematic" part="5034801000" description=""/>
+      <property name="LCSC" value="C127355"/>
+      <property name="Usage" value="Vita_Motherboard"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VitaAnalogAdapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22eb071f-292d-4881-9ff8-0d5c64687f5c</tstamps>
+    </comp>
+    <comp ref="P2">
+      <value>5034801000</value>
+      <footprint>JLCPCB_footprint:FPC-SMD_5034801000</footprint>
+      <datasheet>https://item.szlcsc.com/138637.html</datasheet>
+      <fields>
+        <field name="LCSC">C127355</field>
+        <field name="Usage">Analog_Stick</field>
+      </fields>
+      <libsource lib="JLCPCB_schematic" part="5034801000" description=""/>
+      <property name="LCSC" value="C127355"/>
+      <property name="Usage" value="Analog_Stick"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VitaAnalogAdapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>605d7969-cb97-45f5-9f4b-82dd71669a6a</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="JLCPCB_schematic" part="5034801000">
+      <docs>https://item.szlcsc.com/138637.html</docs>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">5034801000</field>
+        <field name="Footprint">JLCPCB_footprint:FPC-SMD_5034801000</field>
+        <field name="Datasheet">https://item.szlcsc.com/138637.html</field>
+        <field name="LCSC">C127355</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+        <pin num="4" name="4" type="unspecified"/>
+        <pin num="5" name="5" type="unspecified"/>
+        <pin num="6" name="6" type="unspecified"/>
+        <pin num="7" name="7" type="unspecified"/>
+        <pin num="8" name="8" type="unspecified"/>
+        <pin num="9" name="9" type="unspecified"/>
+        <pin num="10" name="10" type="unspecified"/>
+        <pin num="11" name="11" type="unspecified"/>
+        <pin num="12" name="12" type="unspecified"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="JLCPCB_schematic">
+      <uri>C:\Users\stephen.cooper\Documents\GitHub\PSP-Consolizer-Internal\hardware\VitaAnalogAdapter/../lib/JLCPCB/Schematic/JLCPCB_schematic.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/5v">
+      <node ref="P1" pin="4" pinfunction="4" pintype="unspecified"/>
+      <node ref="P1" pin="5" pinfunction="5" pintype="unspecified"/>
+      <node ref="P1" pin="6" pinfunction="6" pintype="unspecified"/>
+      <node ref="P2" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="2" name="/GND">
+      <node ref="P1" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="P2" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="3" name="/X">
+      <node ref="P1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="P2" pin="5" pinfunction="5" pintype="unspecified"/>
+    </net>
+    <net code="4" name="/Y">
+      <node ref="P1" pin="3" pinfunction="3" pintype="unspecified"/>
+      <node ref="P2" pin="4" pinfunction="4" pintype="unspecified"/>
+    </net>
+    <net code="5" name="unconnected-(P1-Pad7)">
+      <node ref="P1" pin="7" pinfunction="7" pintype="unspecified"/>
+    </net>
+    <net code="6" name="unconnected-(P1-Pad8)">
+      <node ref="P1" pin="8" pinfunction="8" pintype="unspecified"/>
+    </net>
+    <net code="7" name="unconnected-(P1-Pad9)">
+      <node ref="P1" pin="9" pinfunction="9" pintype="unspecified"/>
+    </net>
+    <net code="8" name="unconnected-(P1-Pad10)">
+      <node ref="P1" pin="10" pinfunction="10" pintype="unspecified"/>
+    </net>
+    <net code="9" name="unconnected-(P1-Pad11)">
+      <node ref="P1" pin="11" pinfunction="11" pintype="unspecified"/>
+    </net>
+    <net code="10" name="unconnected-(P1-Pad12)">
+      <node ref="P1" pin="12" pinfunction="12" pintype="unspecified"/>
+    </net>
+    <net code="11" name="unconnected-(P2-Pad2)">
+      <node ref="P2" pin="2" pinfunction="2" pintype="unspecified"/>
+    </net>
+    <net code="12" name="unconnected-(P2-Pad6)">
+      <node ref="P2" pin="6" pinfunction="6" pintype="unspecified"/>
+    </net>
+    <net code="13" name="unconnected-(P2-Pad7)">
+      <node ref="P2" pin="7" pinfunction="7" pintype="unspecified"/>
+    </net>
+    <net code="14" name="unconnected-(P2-Pad8)">
+      <node ref="P2" pin="8" pinfunction="8" pintype="unspecified"/>
+    </net>
+    <net code="15" name="unconnected-(P2-Pad9)">
+      <node ref="P2" pin="9" pinfunction="9" pintype="unspecified"/>
+    </net>
+    <net code="16" name="unconnected-(P2-Pad10)">
+      <node ref="P2" pin="10" pinfunction="10" pintype="unspecified"/>
+    </net>
+    <net code="17" name="unconnected-(P2-Pad11)">
+      <node ref="P2" pin="11" pinfunction="11" pintype="unspecified"/>
+    </net>
+    <net code="18" name="unconnected-(P2-Pad12)">
+      <node ref="P2" pin="12" pinfunction="12" pintype="unspecified"/>
+    </net>
+  </nets>
+</export>

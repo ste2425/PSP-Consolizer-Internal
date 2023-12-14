@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "7.0.5"
     },
-    "CreationDate": "2023-07-25T15:15:16+01:00"
+    "CreationDate": "2023-09-23T20:40:57+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -70,6 +70,16 @@
       "Path": "buttonsSuper-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
+    },
+    {
+      "Path": "buttonsSuper-User_Drawings.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "buttonsSuper-User_Comments.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
     },
     {
       "Path": "buttonsSuper-Edge_Cuts.gbr",
